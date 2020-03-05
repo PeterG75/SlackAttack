@@ -32,6 +32,7 @@ This software isn't perfect, but I will be doing my best to improve it.
 - Finding the newest version is kind of janky and should be improved.
 - Only works on windows.
 - Runs off the app folder when it should repackage it into app.asar.
+- Currently only logs messages when timestamps would be nice.
 
 # Note
 This software was made as a proof of concept and is not inteded to be use maliciously. I am not responsible for any legal issues that arise from you using this.
