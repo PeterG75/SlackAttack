@@ -1,0 +1,2 @@
+asarPy
+PyInstaller
